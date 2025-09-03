@@ -1,4 +1,4 @@
-# Branch Monitor Simulator (Python)
+# Branch Monitor Simulator
 Here we are simulating a DC bus of 12 V. Some branch currents are time-varying (PWM branch, time-varying-R branch, RL transient), so the currents aren’t flat, but the source is DC.
 
 ## Overview
